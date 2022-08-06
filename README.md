@@ -1,2 +1,2 @@
 # Study
-SDA Study Repository
+*SDA Study Repository for Data Science Course of* **2022** 
